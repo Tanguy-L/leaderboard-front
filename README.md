@@ -1,4 +1,4 @@
-# plg_lan
+# Leaderboard-front
 
 ## Project setup
 ```
