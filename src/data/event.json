@@ -1,0 +1,314 @@
+[
+  {
+    "id": "e1",
+    "game": "Counter Strike",
+    "rule": "r1",
+    "during": 50,
+    "match": [
+      {
+        "team1": [
+          "t1"
+        ],
+        "team2": [
+          "t2"
+        ],
+        "state": "team1",
+        "id": "m1"
+      },
+      {
+        "team1": [
+          "t3"
+        ],
+        "team2": [
+          "t4"
+        ],
+        "state": "NP",
+        "result": "",
+        "id": "m2"
+      }
+    ],
+    "down": false
+  },
+  {
+    "id": "e2",
+    "game": "Day of Defeat",
+    "rule": "r1",
+    "during": 15,
+    "match": [
+      {
+        "team1": [
+          "t1",
+          "t2"
+        ],
+        "team2": [
+          "t3",
+          "t4"
+        ],
+        "state": "EQ",
+        "result": "",
+        "id": "m3"
+      }
+    ],
+    "down": false
+  },
+  {
+    "id": "e3",
+    "game": "Counter Strike",
+    "rule": "r1",
+    "during": 50,
+    "match": [
+      {
+        "team1": [
+          "t1"
+        ],
+        "team2": [
+          "t3"
+        ],
+        "score": [
+          "0",
+          "0"
+        ],
+        "state": "NP",
+        "result": "",
+        "id": "m4"
+      },
+      {
+        "team1": [
+          "t2"
+        ],
+        "team2": [
+          "t4"
+        ],
+        "score": [
+          "0",
+          "0"
+        ],
+        "state": "NP",
+        "result": "",
+        "id": "m5"
+      }
+    ],
+    "down": false
+  },
+  {
+    "id": "e4",
+    "game": "Team Fortress 2",
+    "rule": "r1",
+    "during": 15,
+    "match": [
+      {
+        "team1": [
+          "t1",
+          "t3"
+        ],
+        "team2": [
+          "t2",
+          "t4"
+        ],
+        "score": [
+          "0",
+          "0"
+        ],
+        "state": "NP",
+        "result": "",
+        "id": "m6"
+      }
+    ],
+    "down": false
+  },
+  {
+    "id": "e5",
+    "game": "Counter Strike",
+    "rule": "r1",
+    "during": 50,
+    "match": [
+      {
+        "team1": [
+          "t1"
+        ],
+        "team2": [
+          "t4"
+        ],
+        "score": [
+          "0",
+          "0"
+        ],
+        "state": "NP",
+        "result": "",
+        "id": "m7"
+      },
+      {
+        "team1": [
+          "t2"
+        ],
+        "team2": [
+          "t3"
+        ],
+        "score": [
+          "0",
+          "0"
+        ],
+        "state": "NP",
+        "result": "",
+        "id": "m8"
+      }
+    ],
+    "down": false
+  },
+  {
+    "id": "e6",
+    "game": "Fifa",
+    "rule": "r2",
+    "during": 10,
+    "match": [
+      {
+        "team1": [
+          "t1"
+        ],
+        "team2": [
+          "t4"
+        ],
+        "score": [
+          "0",
+          "0"
+        ],
+        "state": "NP",
+        "result": "",
+        "id": "m9"
+      },
+      {
+        "team1": [
+          "t2"
+        ],
+        "team2": [
+          "t3"
+        ],
+        "score": [
+          "0",
+          "0"
+        ],
+        "state": "NP",
+        "result": "",
+        "id": "m10"
+      }
+    ],
+    "down": false
+  },
+
+
+
+  {
+    "id": "e7",
+    "game": "Gran Turismo",
+    "rule": "r2",
+    "during": 10,
+    "match": [
+      {
+        "team1": [
+          "t1"
+        ],
+        "team2": [
+          "t2"
+        ],
+        "score": [
+          "0",
+          "0"
+        ],
+        "state": "NP",
+        "result": "",
+        "id": "m11"
+      },
+      {
+        "team1": [
+          "t3"
+        ],
+        "team2": [
+          "t4"
+        ],
+        "score": [
+          "0",
+          "0"
+        ],
+        "state": "NP",
+        "result": "",
+        "id": "m12"
+      }
+    ],
+    "down": false
+  },
+  {
+    "id": "e8",
+    "game": "Mortal Kombat",
+    "rule": "r2",
+    "during": 10,
+    "match": [
+      {
+        "team1": [
+          "t1"
+        ],
+        "team2": [
+          "t3"
+        ],
+        "score": [
+          "0",
+          "0"
+        ],
+        "state": "NP",
+        "result": "",
+        "id": "m13"
+      },
+      {
+        "team1": [
+          "t2"
+        ],
+        "team2": [
+          "t4"
+        ],
+        "score": [
+          "0",
+          "0"
+        ],
+        "state": "NP",
+        "result": "",
+        "id": "m14"
+      }
+    ],
+    "down": false
+  },
+  {
+    "id": "e10",
+    "game": "Worms armageddon",
+    "rule": "r2",
+    "during": 25,
+    "match": [
+      {
+        "team1": [
+          "t1"
+        ],
+        "team2": [
+          "t4"
+        ],
+        "score": [
+          "0",
+          "0"
+        ],
+        "state": "NP",
+        "id": "m15"
+      },{
+        "team1": [
+          "t2"
+        ],
+        "team2": [
+          "t3"
+        ],
+        "score": [
+          "0",
+          "0"
+        ],
+        "state": "NP",
+        "id": "m16"
+      }
+    ],
+    "down": false
+  }
+]

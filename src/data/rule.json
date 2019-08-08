@@ -1,0 +1,14 @@
+[
+  {
+    "id": "r1",
+    "win": 5,
+    "lost": 1,
+    "equality": 3
+  },
+  {
+    "id": "r2",
+    "win": 3,
+    "lost": 1,
+    "equality": 2
+  }
+]
